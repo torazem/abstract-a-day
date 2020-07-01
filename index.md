@@ -1,3 +1,5 @@
+{% include head.html %}
+
 ## An abstract a day
 _keeps the boredom at bay_
 
